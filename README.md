@@ -100,8 +100,12 @@ const daniel = {
 
 ## 🎓 Educación & Certificaciones
 
-- 🎓 **Ingeniería en Sistemas Computacionales** — Tecnológico de Estudios Superiores de Coacalco
-- 📡 **CCNA Routing and Switching** — Cisco Networking Academy
+| | Título | Institución | Año |
+|--|--------|-------------|-----|
+| 🎓 | **Ingeniería en Sistemas Computacionales** | Tecnológico de Estudios Superiores de Coacalco | — |
+| 📡 | **CCNA Routing and Switching** | Tecnológico de Estudios Superiores de Coacalco | — |
+| 🧠 | **Pensamiento crítico: toma de decisiones razonadas** | Tecnológico de Monterrey | Feb 2026 |
+| 💡 | **Ser más creativos** | Universidad Nacional Autónoma de México | Feb 2026 |
 
 ---
 
